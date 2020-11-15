@@ -4,25 +4,19 @@ export default {
 		"sm": [
 			{
 				"type": "max-width",
-				"value": "479"
+				"value": 576
 			}
 		],
 		"md": [
 			{
 				"type": "max-width",
-				"value": "767"
+				"value": 768
 			}
 		],
 		"lg": [
 			{
 				"type": "max-width",
-				"value": "991"
-			}
-		],
-		"xl": [
-			{
-				"type": "max-width",
-				"value": "1199"
+				"value": 992
 			}
 		]
 	},
@@ -157,6 +151,5 @@ export default {
 			}
 		}
 	},
-	"fonts": {},
 	"version": 1
 }
